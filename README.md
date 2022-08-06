@@ -1,1 +1,2 @@
-# book_data_scraping_project
+# Python Projects Portfolio
+This repo stores all my example Python projects.
